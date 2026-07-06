@@ -14,7 +14,7 @@
 - C Programming (Basic)
 - HTML (Learning)
 - CSS (Learning)
-- Python (Learning)## Hi there 👋
+- Python (Learning)
 
 <!--
 **asif-sk-17/asif-sk-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
